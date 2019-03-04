@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{918572D2-76D5-4722-A83E-3B34E96E9DFE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/MainPage.xaml">
+    <Files>
+      <File FileName="Notes/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Notes/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True" />
+            <Node name="Notes.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Notes.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.ItemProperties.Notes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C53B44F1-C5EC-405A-9827-47326DDFC424" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
