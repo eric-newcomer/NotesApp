@@ -10,3 +10,5 @@
 /Users/ericnewcomer/XamarinUniversity/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
 /Users/ericnewcomer/XamarinUniversity/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
 /Users/ericnewcomer/XamarinUniversity/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs

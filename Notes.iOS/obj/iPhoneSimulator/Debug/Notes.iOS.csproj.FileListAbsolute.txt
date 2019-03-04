@@ -55,3 +55,8 @@
 /Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/obj/iPhoneSimulator/Debug/Notes.iOS.csproj.CopyComplete
 /Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/obj/iPhoneSimulator/Debug/Notes.iOS.exe
 /Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/obj/iPhoneSimulator/Debug/Notes.iOS.pdb
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/ericnewcomer/XamarinUniversity/Notes/Notes.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
