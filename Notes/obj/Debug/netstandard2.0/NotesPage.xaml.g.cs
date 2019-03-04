@@ -8,21 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Notes.NotesPage.xaml", "NotesPage.xaml", typeof(global::Notes.NotesPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Notes.NotesPage.xaml", "NotesPage.xaml", typeof(global::Notes.NoteEntryPage))]
 
 namespace Notes {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("NotesPage.xaml")]
-    public partial class NotesPage : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.ListView listView;
+    public partial class NoteEntryPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NotesPage));
-            listView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "listView");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NoteEntryPage));
         }
     }
 }

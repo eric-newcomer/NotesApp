@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{918572D2-76D5-4722-A83E-3B34E96E9DFE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/NoteEntryPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/NotesPage.xaml">
     <Files>
       <File FileName="Notes/Models/Note.cs" Line="14" Column="1" />
       <File FileName="Notes/Data/NoteDatabase.cs" Line="26" Column="27" />
-      <File FileName="Notes/App.xaml" Line="5" Column="15" />
+      <File FileName="Notes/App.xaml" Line="33" Column="15" />
       <File FileName="Notes/NoteEntryPage.xaml" Line="23" Column="1" />
-      <File FileName="Notes/App.xaml.cs" Line="22" Column="27" />
+      <File FileName="Notes/App.xaml.cs" Line="31" Column="9" />
       <File FileName="Notes/NotesPage.xaml.cs" Line="22" Column="10" />
-      <File FileName="Notes/NoteEntryPage.xaml.cs" Line="44" Column="10" />
+      <File FileName="Notes/NoteEntryPage.xaml.cs" Line="28" Column="10" />
+      <File FileName="Notes/NotesPage.xaml" Line="30" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,9 +17,7 @@
             <Node name="Notes" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="NotesPage.xaml" expanded="True">
-                <Node name="NoteEntryPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="NotesPage.xaml" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
